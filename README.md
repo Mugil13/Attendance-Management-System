@@ -20,7 +20,7 @@ Welcome to the Attendance Management System (AMS) project! This system is design
 - Automated tracking of attendance percentages through reports.
 
 ### 4. Calendar of Events
-- View and update events. (Access to admin only)
+- View and update events. (Access limited to admin only)
 
 ### 5. Role-Based Access Control
 - Differentiated access levels for students, teachers, and administrators to ensure data security and privacy.
